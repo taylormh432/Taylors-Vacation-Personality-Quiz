@@ -1,0 +1,54 @@
+/* STYLE SECTIONING TAGS */
+body {
+  margin: 2em;
+  background-color: #bde0fe;
+  font-family: "Georgia", serif;
+  text-align: center;
+  align-items: center;
+}
+
+/* STYLE TEXT */
+h1 {
+  font-style: italic;
+  color: #118ab2;
+  text-shadow: 3px 3px #ECE8B0;
+}
+
+h2 {
+  margin-top: 2em; 
+  text-align: center;
+  color: #118ab2;
+}
+
+header{
+  text-align: center;
+  padding: 2em;
+}
+
+/* STYLE FLEX CONTAINER */
+.answers {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+  
+/* STYLE FLEX ITEM */
+
+
+/* STYLE IMAGES */
+.pictures{
+  max-height: 500px;
+  max-width: 500px;
+  border-radius: 10px;
+}
+
+/* STYLE BUTTON */
+button { 
+  margin-top: 5px;
+  align-items: center;
+  background-color: #ECE8B0;
+  border-radius: 10px;
+  border-color: #ECE8B0;
+  font-family: "Georgia", serif;
+}
+
